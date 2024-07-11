@@ -17,3 +17,7 @@ This project was developed as my final university project at École de technolog
 - **Detailed Image Acquisition**: Uses a digital microscope mounted on a modified 3D printer framework to capture high-resolution images of concrete samples.
 - **Advanced Image Processing**: Implements image stitching to composite multiple images into a single, detailed image for analysis.
 - **Robust Analysis Algorithms**: Utilizes machine learning models for segmenting and analyzing the air void structure effectively.
+
+## Full Report
+For further comprehension and detailed insights into the project, the full report is available here:
+[Rapport final GPA793.pdf](Rapport%20final%20GPA793.pdf)
