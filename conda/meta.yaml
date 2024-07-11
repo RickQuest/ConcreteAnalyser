@@ -1,0 +1,48 @@
+package:
+  name: concreteanalyser
+  version: "1.0.0"
+
+source:
+  # path: ../
+  git_url: https://github.com/Eric-Surprenant/ConcreteAnalyser.git
+  # git_rev: 
+  # git_depth: 1 
+
+requirements:
+  build:
+    - python
+    - setuptools
+    # - wheel
+    # - opencv 4.0.1
+    # - stitching
+    # - matplotlib 3.5.2
+    # - scipy 1.8.1
+    # - numpy 1.23.1
+    # - imutils 0.5.4
+    # - pillow 9.1.1
+    # - pyserial 3.5
+
+  run:
+    - python
+    - setuptools
+    # - wheel
+    # - opencv 
+    # # - stitching
+    # - matplotlib 
+    # - scipy 
+    # - numpy 
+    # - imutils 
+    # - pillow 
+    # - pyserial
+
+build:
+  script: python setup.py install
+
+# test:
+#   imports:
+#     - concreteanalyser
+
+about:
+  # home: https://github.com/Eric-Surprenant/ConcreteAnalyser.git
+  # license: MIT
+  summary: Program to analyser concrete air void system.
