@@ -20,4 +20,4 @@ This project was developed as my final university project at École de technolog
 
 ## Full Report
 For further comprehension and detailed insights into the project, the full report is available here:
-[Rapport final GPA793.pdf](Rapport%20final%20GPA793.pdf)
+[Full report.pdf](Rapport%20final%20GPA793.pdf)
